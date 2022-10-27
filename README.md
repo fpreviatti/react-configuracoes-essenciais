@@ -1,0 +1,1 @@
+# react-configuracoes-essenciais
