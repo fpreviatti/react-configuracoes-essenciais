@@ -10,4 +10,6 @@ create-react-app primeiro_codigo
 
 cd meu-app-react
 
+npm i -D react-router-dom
+
 yarn start
